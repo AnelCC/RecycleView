@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="action_add_item">Add</string>
+    <string name="action_delete_item">Delete </string>
+</resources>
